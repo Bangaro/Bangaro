@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm **Esteban** 👋
 
-<!--
-**Bangaro/Bangaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I am a software developer with passion for coding and self-taught learning. Currently doing my major. I spend my free time playing music and learning how to build better software. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some technologies that I can work with are:
+
+
+- JAVA Core  
+- Spring Boot 
+- Javascript/ES6 
+- NodeJs/EXPRESS 
+- NestJs
+- Postman 
+- Git & Github 
+- MongoDB 
+- SQL 
+- HTML
+
+ ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+ ![](https://img.icons8.com/color/48/000000/html-5--v1.png)
+ ![](https://img.icons8.com/color/48/000000/mysql-logo.png)
+ ![](https://img.icons8.com/color/48/000000/mongodb.png)
+ ![](https://img.icons8.com/color/48/000000/git.png) 
+ ![](https://img.icons8.com/color/48/000000/nodejs.png)
+ ![](https://img.icons8.com/color/48/000000/javascript--v1.png)
+ ![](https://img.icons8.com/color/48/000000/spring-logo.png)
+ ![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)
