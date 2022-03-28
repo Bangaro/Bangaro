@@ -1,7 +1,7 @@
 # Hi there, I'm **Esteban** 👋
 
 
-### I am a software developer with passion for coding and self-taught learning. Currently doing my major. I spend my free time playing music and learning how to build better software. ✨
+### I am a software developer passionate about coding and self-taught learning. Currently doing my major. I spend my free time playing music and learning how to build better software. ✨
 
 ### Some technologies that I can work with are:
 
