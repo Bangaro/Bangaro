@@ -2,6 +2,7 @@
 
 
 ### I am a software developer passionate about coding and self-taught learning. Currently doing my major. I spend my free time playing music and learning how to build better software. ✨
+### I'm learning React right now, so it'll be on my skills list soon. :wink:
 
 ### Some technologies that I can work with are:
 
