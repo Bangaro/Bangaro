@@ -2,7 +2,7 @@
 
 
 ### I am a software developer passionate about coding and self-taught learning. Currently doing my major. I spend my free time playing music and learning how to build better software. ✨
-### I'm learning React right now, so it'll be on my skills list soon. :wink:
+
 
 ### Some technologies that I can work with are:
 
@@ -17,6 +17,7 @@
 - MongoDB 
 - SQL 
 - HTML
+- React
 
  ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
  ![](https://img.icons8.com/color/48/000000/html-5--v1.png)
