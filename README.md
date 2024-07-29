@@ -11,7 +11,6 @@
 - Spring Boot
 - ASP .NET
 - Javascript/ES6 
-- NodeJs/EXPRESS 
 - Postman 
 - Git & Github 
 - SQL 
@@ -22,7 +21,6 @@
  ![](https://img.icons8.com/color/48/000000/html-5--v1.png)
  ![](https://img.icons8.com/color/48/000000/mysql-logo.png)
  ![](https://img.icons8.com/color/48/000000/git.png) 
- ![](https://img.icons8.com/color/48/000000/nodejs.png)
  ![](https://img.icons8.com/color/48/000000/javascript--v1.png)
  ![](https://img.icons8.com/color/48/000000/spring-logo.png)
  ![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)
