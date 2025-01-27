@@ -15,7 +15,7 @@
 - Git & Github 
 - SQL 
 - HTML
-- React
+- Vue JS
 
  ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
  ![](https://img.icons8.com/color/48/000000/html-5--v1.png)
